@@ -4,6 +4,8 @@
 
 This [repository](https://github.com/yunpengn/CG4001) tracks my progress and work related to the dissertation for my [Bachelor of Engineering (Computer Engineering)](https://ceg.nus.edu.sg/) degree at [the National University of Singapore](http://www.nus.edu.sg).
 
+My research focuses on query optimizer for RDBMS (relational database management systems), specifically on outer join reorderability.
+
 ## Literature Review
 
 - [Improving Join Reorderability with Compensation Operators (2018)](reviews/2018-eca.md)
