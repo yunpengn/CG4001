@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/yunpengn/CG4001.svg?branch=master)](https://travis-ci.com/yunpengn/CG4001)
+
 # CG4001 B. Eng. Dissertation @ NUS CEG
 
 This [repository](https://github.com/yunpengn/CG4001) tracks my progress and work related to the dissertation for my [Bachelor of Engineering (Computer Engineering)](https://ceg.nus.edu.sg/) degree at [the National University of Singapore](http://www.nus.edu.sg).
