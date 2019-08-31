@@ -1,0 +1,1 @@
+# Begoli, E., Camacho-Rodríguez, J., Hyde, J., Mior, M. J., & Lemire, D. (2018). Apache calcite: A foundational framework for optimized query processing over heterogeneous data sources. Proceedings of the ACM SIGMOD International Conference on Management of Data, 221–230. https://doi.org/10.1145/3183713.3190662
