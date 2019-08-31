@@ -6,7 +6,10 @@ This [repository](https://github.com/yunpengn/CG4001) tracks my progress and wor
 
 ## Literature Review
 
-- 
+- [Improving Join Reorderability with Compensation Operators (2018)](reviews/2018-eca.md)
+- [Canonical abstraction for outerjoin optimization (2004)](reviews/2004-cba.md)
+- [On the correct and complete enumeration of the core search space (2013)](reviews/2013-tba.md)
+- [Volcano — An Extensible and Parallel Query Evaluation System (1994)](reviews/1994-volcano.md)
 
 ## Licence 
 
