@@ -12,11 +12,18 @@ My research focuses on query optimizer for RDBMS (relational database management
 - [Canonical abstraction for outerjoin optimization](papers/2004-cba.md) (2004)
 - [On the correct and complete enumeration of the core search space](papers/2013-tba.md) (2013)
 - [Volcano — An Extensible and Parallel Query Evaluation System](papers/1994-volcano.md) (1994)
-- [Apache calcite: A foundational framework for optimized query processing over heterogeneous data sources](papers/2018-calcite.md) (2018)
+- [Apache Calcite: A foundational framework for optimized query processing over heterogeneous data sources](papers/2018-calcite.md) (2018)
+- [How to Extend a Conventional Optimizer to Handle One- and Two-Sided Outerjoin](papers/1992-glr.md) (1992)
 
 ## Technology Review
 
 - [Apache Calcite](tech/calcite.md)
+
+## Latex Templates for FYP Report
+
+- By Prof Ooi Wei Tsang: https://www.comp.nus.edu.sg/~ooiwt/latex/socreport/
+- https://github.com/quarbby/FYP-LaTeX-Template
+- https://github.com/streamjoin/nusthesis
 
 ## Licence 
 
