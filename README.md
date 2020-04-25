@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/yunpengn/CG4001.svg?branch=master)](https://travis-ci.com/yunpengn/CG4001)
+[![CI pipeline](https://github.com/yunpengn/CG4001/workflows/CI%20pipeline/badge.svg)](https://github.com/yunpengn/CG4001/actions)
 
 # CG4001 B. Eng. Dissertation @ NUS CEG
 
